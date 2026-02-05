@@ -1,0 +1,24 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="100" cy="100" r="95" stroke="#1A4A8E" stroke-width="4"/>
+  <text x="100" y="180" font-family="Arial" font-size="24" fill="#1A4A8E" text-anchor="middle">Collab</text>
+
+  <g transform="translate(45, 60)">
+    <!-- First 'C' -->
+    <path d="M40 20 C40 10 30 0 20 0 C10 0 0 10 0 20 C0 30 10 40 20 40 L20 30 C15 30 10 25 10 20 C10 15 15 10 20 10 C25 10 30 15 30 20 L30 40 L40 40 L40 20 Z" fill="#1A4A8E"/>
+    <!-- Slash and Brackets for First 'C' -->
+    <path d="M15 15 L25 25 M25 15 L15 25" stroke="#FFFFFF" stroke-width="2"/>
+    <path d="M10 18 L10 22 L8 22 L8 18 L10 18 Z M30 18 L30 22 L32 22 L32 18 L30 18 Z" fill="#FFFFFF"/>
+
+    <!-- Second 'C' -->
+    <path d="M100 20 C100 10 90 0 80 0 C70 0 60 10 60 20 C60 30 70 40 80 40 L80 30 C75 30 70 25 70 20 C70 15 75 10 80 10 C85 10 90 15 90 20 L90 40 L100 40 L100 20 Z" fill="#4ECDC4"/>
+    <!-- Down Arrow for Second 'C' -->
+    <path d="M80 10 L80 30 M75 25 L80 30 L85 25" stroke="#FFFFFF" stroke-width="2"/>
+    <!-- Equals Sign for Second 'C' -->
+    <path d="M90 18 L90 22 M90 26 L90 30" stroke="#FFFFFF" stroke-width="2"/>
+  </g>
+
+  <!-- Arcs -->
+  <path d="M40 70 C50 60 60 60 70 70" stroke="#1A4A8E" stroke-width="2" fill="none"/>
+  <path d="M160 70 C150 60 140 60 130 70" stroke="#4ECDC4" stroke-width="2" fill="none"/>
+  <path d="M130 70 L135 65 M130 70 L125 65" stroke="#4ECDC4" stroke-width="2"/>
+</svg>

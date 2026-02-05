@@ -24,7 +24,7 @@ const IdGenerator = () => {
     }
     else{
       navigate(`/room/${roomId}`,{
-        state:username
+        state:{username}
       })
       toast.success("Room created successfully!")
     }
