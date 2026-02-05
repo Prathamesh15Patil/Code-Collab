@@ -1,4 +1,4 @@
-# 🚀 Real-time Collaborative Coding Platform
+# 🚀 CodeCollab - Real-time Collaborative Coding Platform
 **Code together. Learn together. In real time.**
 
 A web-based collaborative coding environment that allows multiple users to write, discuss, and execute code together in real time. Designed to promote pair/group learning, active problem-solving, and practical coding practice.
@@ -19,6 +19,8 @@ This platform provides a shared online workspace where users can collaboratively
 - 🏠 Room management: create, join, leave rooms with live member list
 - 🔄 Automatic code & language sync for newly joined members
 
+
+<img src="code collab phase 1.png" alt="My Image" width="300">
 ---
 
 ## 🛠️ Tech Stack
@@ -53,3 +55,5 @@ npm run dev
 cd client
 npm install
 npm start
+
+
